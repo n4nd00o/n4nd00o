@@ -8,7 +8,7 @@
 ---
 
 ## ✨ Sobre mim  
-Sou **graduando em Engenharia de Software (4º semestre) pela Universidade São Judas Tadeu**, com experiência prática em **Python, JavaScript, C++ e C#**.  
+Sou **graduando em Engenharia de Software (6º semestre) pela Universidade São Judas Tadeu**, com experiência prática em **Python, JavaScript, C++ e C#**.  
 Tenho conhecimentos em **Banco de Dados**, **Gestão em Tecnologias da Informação** e experiência em **liderança de projetos acadêmicos**.  
 
 Atualmente busco me especializar em **Segurança da Informação**, realizando formações pela **Cisco** e **Alura**.  
@@ -61,14 +61,7 @@ Meu objetivo a longo prazo é **empreender na área de TI e Segurança**, inspir
 
 ---
 
-## 📊 GitHub Stats  
-
-![n4nd00o GitHub stats](https://github-readme-stats.vercel.app/api?username=n4nd00o&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4nd00o&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Contato  
 📌 **LinkedIn:** [Luiz Fernando Santana Trindade](https://www.linkedin.com/in/luiz-fernando-santana-trindade)  
-📧 **E-mail:** luizfernandosantanadev@gmail.com  
+📧 **E-mail:** luizfernandosantanadev@gmail.com 
 💻 **GitHub:** [n4nd00o](https://github.com/n4nd00o)  
