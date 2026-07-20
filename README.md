@@ -1,61 +1,139 @@
-# 👋 Olá! Eu sou o Luiz Fernando Santana – Bem-vindo(a) ao meu GitHub  
+# 👋 Olá! Eu sou Luiz Fernando Santana
 
-📍 **Localização:** São Paulo, SP – Brasil  
-💼 **Conecte-se comigo no LinkedIn:** [Luiz Fernando Santana Trindade](www.linkedin.com/in/luiz-fernando-santana-trindade)  
-✉️ **E-mail:** luizfernandosantanadev@gmail.com  
-💻 **Perfil no GitHub:** [n4nd00o](https://github.com/n4nd00o)  
+🎓 Estudante de Engenharia de Software (6º semestre)
 
----
+🛡️ Foco em Segurança da Informação (Blue Team)
 
-## ✨ Sobre mim  
-Sou **graduando em Engenharia de Software (6º semestre) pela Universidade São Judas Tadeu**, com experiência prática em **Python, JavaScript, C++ e C#**.  
-Tenho conhecimentos em **Banco de Dados**, **Gestão em Tecnologias da Informação** e experiência em **liderança de projetos acadêmicos**.  
-
-Atualmente busco me especializar em **Segurança da Informação**, realizando formações pela **Cisco** e **Alura**.  
-Tenho facilidade em compreender e manipular códigos, além de amplo conhecimento em **hardware, firewalls e noções de firmware**.  
-
-Sou motivado por desafios e apaixonado por resolver problemas, sempre em busca de crescimento pessoal e profissional.  
-Meu objetivo a longo prazo é **empreender na área de TI e Segurança**, inspirado em grandes empresas como **Microsoft** e **Amazon**.  
+📍 São Paulo - SP, Brasil
 
 ---
 
-## 💻 Tech Stack 💻  
+# Sobre mim
 
-### ⚙️ Backend  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+Sou estudante de Engenharia de Software apaixonado por Segurança da Informação, com interesse especial em Blue Team, Segurança de Redes, Resposta a Incidentes e Infraestrutura.
 
-### 🛢️ Banco de Dados  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+Atualmente estou consolidando minha base em desenvolvimento com C# enquanto aprofundo meus conhecimentos em segurança, redes de computadores e ambientes Windows. Meu objetivo é iniciar minha carreira por meio de um estágio onde eu possa aprender com profissionais experientes e contribuir para a proteção de ambientes corporativos.
 
-### 🔒 Segurança  
-🔹 Firewalls  
-🔹 Segurança de Endpoints  
-🔹 Fundamentos de Segurança (Cisco & Alura)  
-
-### 🔧 Ferramentas  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+Acredito que Segurança da Informação vai muito além do uso de ferramentas. Procuro compreender os conceitos que sustentam redes, sistemas operacionais, protocolos, criptografia, controle de acesso e gestão de riscos para desenvolver soluções mais eficientes e tomar decisões técnicas bem fundamentadas.
 
 ---
 
-## 🛠️ Skills Técnicas  
-- Programação e lógica computacional  
-- Segurança de endpoints  
-- Gestão de TI e liderança acadêmica  
-- Conhecimentos em hardware e firmware  
+# Áreas de Interesse
+
+- 🔹 Blue Team
+- 🔹 Security Operations Center (SOC)
+- 🔹 Resposta a Incidentes
+- 🔹 Segurança de Redes
+- 🔹 Hardening de Sistemas
+- 🔹 Segurança de Endpoints
+- 🔹 Gestão de Vulnerabilidades
+- 🔹 Monitoramento de Infraestrutura
 
 ---
 
-## 🎯 O que estou buscando  
-- **Vaga de estágio em TI**, com foco em **desenvolvimento de software** ou **segurança da informação**  
-- Oportunidade de aplicar conhecimentos acadêmicos e práticos em **projetos reais**  
-- Espaço para aprender, colaborar em equipe e contribuir em soluções criativas  
+# Tecnologias e Conhecimentos
+
+## Sistemas Operacionais
+
+- Windows
+- Linux (Fundamentos)
+
+## Redes
+
+- TCP/IP
+- DNS
+- DHCP
+- VLAN
+- Firewall
+- Wireshark
+
+## Programação
+
+- C# (em desenvolvimento)
+- Lógica de Programação
+
+## Ferramentas
+
+- Git
+- GitHub
+- Visual Studio
+- Visual Studio Code
 
 ---
 
-## 📫 Contato  
-📌 **LinkedIn:** [Luiz Fernando Santana Trindade](https://www.linkedin.com/in/luiz-fernando-santana-trindade)  
-📧 **E-mail:** luizfernandosantanadev@gmail.com 
-💻 **GitHub:** [n4nd00o](https://github.com/n4nd00o)  
+# Atualmente estudando
+
+- C#
+- PowerShell
+- Linux
+- Windows Server
+- Active Directory
+- SIEM
+- Microsoft Defender
+- Microsoft Sentinel
+
+---
+
+# Certificações e Estudos
+
+### Cisco Networking Academy
+
+- Conceitos Básicos de Redes
+- Segurança de Endpoint
+
+### Alura
+
+- Fundamentos de Redes
+- Fundamentos de Cibersegurança
+- Linux para Cibersegurança
+- Shell Scripting
+- Kali Linux
+- Cloud Security
+
+### Udemy
+
+- CompTIA Security+ (em andamento)
+- Hacker Ético com Kali Linux (em andamento)
+
+### Universidade
+
+- Engenharia de Software
+
+---
+
+# Projetos
+
+Alguns dos meus projetos são privados por envolverem desenvolvimento proprietário.
+
+Os projetos públicos disponíveis representam meus estudos e experimentações durante minha evolução técnica.
+
+Novos laboratórios e projetos voltados para Segurança da Informação serão adicionados continuamente conforme avanço nos estudos.
+
+---
+
+# Objetivos para 2026
+
+- Conseguir um estágio em Segurança da Informação
+- Aprimorar C#
+- Aprender Windows Server
+- Aprender Active Directory
+- Aprender PowerShell
+- Aprender SIEM
+- Desenvolver laboratórios de Blue Team
+- Contribuir com projetos open source relacionados à segurança
+
+---
+
+# Contato
+
+💼 LinkedIn
+
+www.linkedin.com/in/luiz-fernando-santana-trindade
+
+📧 E-mail
+
+luizfernandosantanadev@gmail.com
+
+💻 GitHub
+
+https://github.com/n4nd00o
