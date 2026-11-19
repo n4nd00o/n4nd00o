@@ -31,11 +31,13 @@ Desenvolvo sites, sistemas web e aplicações para computador para pequenas e m�
 
 ### 🧾 [Orvix: sistema de gestão (ERP) para lojas](https://github.com/n4nd00o/orvix)
 
-Sistema web completo, em uso numa loja real e vendido como assinatura: PDV com leitor e Pix, caixa, estoque em vários locais, entrada por nota fiscal (XML), financeiro com DRE, loja online, divulgação no WhatsApp e Instagram, perfis de acesso e verificação em duas etapas.
+Sistema web completo, em uso numa loja real e vendido como assinatura: PDV com leitor e Pix, caixa, estoque em vários locais, entrada por nota fiscal (XML), financeiro com DRE, loja online, divulgação no WhatsApp e Instagram, perfis de acesso e verificação em duas etapas. Cada loja escolhe as cores do sistema (8 temas) e coloca o próprio nome e logo. Coberto por 62 testes de ponta a ponta, incluindo testes de ataque e de carga.
 
 **Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Playwright, Docker, Render e Supabase.
 
-[![Orvix](https://raw.githubusercontent.com/n4nd00o/orvix/main/02-pdv.png)](https://github.com/n4nd00o/orvix)
+| | |
+|---|---|
+| [![Orvix: venda no PDV](https://raw.githubusercontent.com/n4nd00o/orvix/main/02-pdv.png)](https://github.com/n4nd00o/orvix) | [![Orvix com o tema azul e a logo da loja](https://raw.githubusercontent.com/n4nd00o/orvix/main/24-tema-azul.png)](https://github.com/n4nd00o/orvix) |
 
 *Código privado; a vitrine tem prints, funcionalidades e decisões técnicas.*
 
